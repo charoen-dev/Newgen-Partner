@@ -4,6 +4,6 @@
  3. เปิด VSCode
  4. ใช้คำสั้ง flutter run
 # Partners v.0.0.1
-- Front-End 90 %
+- Front-End 85 %
 - Back-End  10 %
 
