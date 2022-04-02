@@ -3,8 +3,7 @@
  2. แตกไฟล์
  3. เปิด VSCode
  4. ใช้คำสั้ง flutter run
-# Note
-* partners v.0.0.1
+# Partners v.0.0.1
 - Front-End 80 %
 - Back-End  10 %
 
