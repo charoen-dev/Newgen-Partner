@@ -6,4 +6,5 @@
 # Partners v.0.0.1
 - Front-End 85 %
 - Back-End  10 %
+- https://github.com/charoen-dev/Newgen-Partner/blob/main/partners_v.0.1.zip
 
